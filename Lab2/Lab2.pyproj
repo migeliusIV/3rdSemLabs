@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1b795224-54ad-4f47-b22d-082bf9d6c80f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>lab_python_fp\gen_random.py</StartupFile>
+    <StartupFile>lab_python_fp\process_data.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
